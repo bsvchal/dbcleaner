@@ -1,5 +1,4 @@
 using DatabaseCleaner;
-using Microsoft.EntityFrameworkCore;
 
 internal class Program
 {
